@@ -1,3 +1,4 @@
 # demo
 
-just a intro to git
+
+Exploratory data analysis of the highes grossing movies
